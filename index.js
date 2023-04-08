@@ -23,17 +23,17 @@ app.use(requestLogger);
 let notes = [
   {
     id: 1,
-    content: "HTML is easy",
+    content: "Yee Jeah Hueey is beautiful",
     important: true,
   },
   {
     id: 2,
-    content: "Browser can execute only JavaScript",
+    content: "Random false line",
     important: false,
   },
   {
     id: 3,
-    content: "GET and POST are the most important methods of HTTP protocol",
+    content: "Yee Jeah Hueey is very beautiful",
     important: true,
   },
 ];
